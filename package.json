@@ -1,0 +1,38 @@
+{
+    "name": "logoscript",
+    "version": "1.0.0",
+    "description": "search of logo",
+    "author": "marwen",
+    "main": "dist/index.js",
+    "types": "types/index.d.ts",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "got": "^9.6.0"
+    },
+    "devDependencies": {
+        "@types/cheerio": "^0.22.11",
+        "@types/got": "^9.4.1",
+        "@types/node": "^11.10.4",
+        "auto-changelog": "^1.11.0",
+        "prettier": "1.16.4",
+        "release-it": "^10.3.1",
+        "ts-node": "^8.0.2",
+        "tslint": "^5.13.1",
+        "tslint-eslint-rules": "^5.4.0",
+        "typedoc": "^0.14.2",
+        "typescript": "^3.3.3333"
+    },
+    "keywords": [
+        "logo",
+        "scrape",
+        "company",
+        "website",
+        "image",
+        "crawl",
+        "fetch",
+        "opengraph",
+        "icon",
+        "favicon"
+    ],
+    "license": "MIT"
+}
